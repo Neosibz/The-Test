@@ -1,0 +1,252 @@
+@media only screen and (max-width:1143px) {
+    
+    
+	header > ul li a {
+		font-size: 14px;
+	}
+
+	#Logo {
+		margin-left: 60px;
+		margin-top: 30px;
+	}
+
+	.Editord-Info p {
+		font-size: 18px;
+	}
+    
+    .socil-Media{
+        width: 400px;
+    }
+    
+    .socil-Media{
+        /*background-color: green;*/
+        margin-right: 5px;
+    }
+    
+    .socil-Media a{
+        width: 6%;
+    }
+    
+    .media > img{
+        width: 25px;
+        height: 25px;
+        margin-top: 10px;
+    }
+    
+
+	.footer-bottom > ul > li a {
+		font-size: 11px;
+	}
+
+
+}
+
+@media only screen and (max-width:1050px) {
+
+	header > ul li a {
+		font-size: 14px;
+	}
+
+	#Logo {
+		margin-left: 60px;
+		margin-top: 30px;
+	}
+
+	.Editord-Info p {
+		font-size: 18px;
+	}
+    
+    .socil-Media{
+        width: 400px;
+    }
+    
+    .socil-Media{
+        /*background-color: green;*/
+        margin-right: 5px;
+    }
+    
+    .socil-Media a{
+        width: 6%;
+    }
+    
+    .media > img{
+        width: 25px;@media only screen and (max-width:861px) {
+
+}
+        height: 25px;
+        margin-top: 10px;
+    }
+    
+
+	.footer-bottom > ul > li a {
+		font-size: 11px;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width:994px) {
+
+	header > ul li a {
+		font-size: 13px;
+	}
+
+	#Logo {
+		margin-top: 35px;
+		margin-left: 60px;
+	}
+
+	.Content1 {
+		height: 600px;
+	}
+    
+    .Form-Set{
+         width: 30%;
+        /*background-color: yellow;*/
+    }
+    
+    .Form-Set input[type="text"]{
+        background-position: 200px 4px;
+    }
+
+	.Content1 > article > h2 {
+		font-size: 51px;
+	}
+
+	.Content1 > article > p {
+		font-size: 25px;
+	}
+
+	.Article-Command {
+		height: auto;
+		width: 100%;
+		padding-bottom: 20px;
+	}
+    
+    .Article-Command::before,
+    .Article-Command::after{
+        content: "";
+        display: table;
+        clear: both;
+    }
+    
+    .Dark-Cover{
+        height: 60px;
+    }
+
+	.Dark-Cover h2 {
+		font-size: 20px;
+	}
+
+	.Dark-Cover p {
+		font-size: 12px;
+	}
+
+	.More {
+		width: 140px;
+		font-size: 14px;
+		background-position: 110px 12px;
+		background-size: 8px 16px;
+	}
+    
+    .Video-Scene{
+       /* background-color: pink;*/
+    }
+    
+    .Vidz{
+        height: 450px;
+       /* background-color: yellow;*/
+    }
+    
+    .Vidz h2 {
+		font-size: 20px;
+	}
+
+	.Vidz p {
+		font-size: 13px;
+	}
+    
+    .Editors-Note{
+        /*background-color: red;*/
+        padding-bottom: 10px;
+    }
+   
+    .Editord-Info p{
+        font-size: 16px;
+    }
+    
+    .Editore-Profile-Pic{
+        /*background-color: blue;*/
+        min-height: 200px;
+    }
+    
+    .scroll{
+        width: 40px;
+        height: 40px;
+    }
+    
+    .socil-Media{
+        width: 400px;
+    }
+    
+    .socil-Media{
+        /*background-color: green;*/
+        margin-right: 5px;
+    }
+    
+    .socil-Media a{
+        width: 6%;
+    }
+    
+    .media > img{
+        width: 25px;
+        height: 25px;
+        margin-top: 10px;
+    }
+    
+    .footer-top > ul > li a{
+        font-size: 11px;
+    }
+    
+    .footer-bottom {
+        height: auto;
+    }
+    
+    .footer-bottom > ul > li a{
+        font-size: 10px;
+    }
+
+}
+
+@media only screen and (max-width:861px) {
+    header > ul li a {
+		font-size: 11px;
+	}
+    
+    #Logo {
+		margin-left: 40px;
+	}
+    
+    .Content1 > article > h2 {
+		font-size: 45px;
+	}
+
+	.Content1 > article > p {
+		font-size: 25px;
+	}
+    
+    .Form-Set input[type="text"]{
+        background-position: 170px 4px;
+    }
+
+	#cha {
+		font-size: 25px;
+	}
+    
+    .footer-bottom > ul > li a {
+		font-size: 8px;
+	}
+
+}
